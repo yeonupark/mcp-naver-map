@@ -89,4 +89,5 @@ Edit ~/Library/Application Support/Claude/claude_desktop_config.json:
 ```
 ---
 ## 📝 License
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+- This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+- Built with [Model Context Protocol](https://modelcontextprotocol.io/introduction)
